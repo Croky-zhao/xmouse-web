@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-05-16T20:50:00Z",
+  "lastUpdated": "2026-05-18T00:00:00Z",
   "cursors": [
     {
       "id": "classic_white",
@@ -33,14 +33,6 @@
       "order": 4,
       "previewImage": "https://xmouse.top/cursors/orange_preview.png",
       "actualImage": "https://xmouse.top/cursors/orange_actual.png"
-    },
-    {
-      "id": "test_cloud_loaded",
-      "name": "🧪 云端测试样式",
-      "isPremium": false,
-      "order": 5,
-      "previewImage": "https://xmouse.top/cursors/test_preview.png",
-      "actualImage": "https://xmouse.top/cursors/test_actual.png"
     }
   ]
 }
